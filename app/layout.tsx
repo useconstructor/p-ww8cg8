@@ -13,7 +13,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Inventario Pro",
+  title: "Inventario Productos",
   description: "Aplicación web de inventario para pequeños y medianos comercios",
 };
 

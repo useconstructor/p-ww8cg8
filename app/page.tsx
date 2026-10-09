@@ -180,7 +180,7 @@ export default function Home() {
             <div className="flex items-center gap-2">
               <Package className="w-8 h-8 text-[#0DB8A6]" />
               <span className="font-bold text-xl text-[#1F2937]" style={{ fontFamily: 'var(--font-heading)' }}>
-                Inventario Pro
+                Inventario Productos
               </span>
             </div>
 
@@ -533,7 +533,7 @@ export default function Home() {
             Lo que dicen nuestros usuarios
           </h2>
           <p className="text-[#6B7280] text-center mb-12 max-w-2xl mx-auto">
-            Miles de comercios ya confían en Inventario Pro
+            Miles de comercios ya confían en Inventario Productos
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -740,7 +740,7 @@ export default function Home() {
               <div className="flex items-center gap-2 mb-4">
                 <Package className="w-8 h-8 text-[#0DB8A6]" />
                 <span className="font-bold text-xl" style={{ fontFamily: 'var(--font-heading)' }}>
-                  Inventario Pro
+                  Inventario Productos
                 </span>
               </div>
               <p className="text-gray-400 text-sm max-w-sm">
@@ -772,7 +772,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-gray-700 pt-8 text-center text-sm text-gray-400">
-            <p>&copy; {new Date().getFullYear()} Inventario Pro. Todos los derechos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Inventario Productos. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
