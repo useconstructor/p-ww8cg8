@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#F9F9F9",
+  "backgroundColor": "#FFFFFF",
+  "textColor": "#1F2937",
+  "accentColor": "#0DB8A6",
+  "fontHeading": "Manrope",
+  "fontBody": "Inter",
+  "borderRadius": "0.25rem",
+  "logoText": "Inventario Pro",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-WW8CG8/logo.png",
+  "tone": "professional"
+}
